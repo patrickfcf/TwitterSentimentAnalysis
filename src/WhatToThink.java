@@ -1,5 +1,12 @@
 import java.util.ArrayList;
 
+/**
+ * Main class of the application
+ * 
+ * @author FONSECA Patrick
+ *
+ */
+
 public class WhatToThink {
 
 	public static void main(String[] args) {
