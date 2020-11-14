@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Twitter Sentiment Analysis Java App
 Simple Java project to analyze Twitter sentiments, part of a project to learn more about the automation of code.
 
 # Twitter Developers
