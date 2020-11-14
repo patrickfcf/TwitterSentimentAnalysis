@@ -8,6 +8,14 @@ import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
 
+/**
+ * This class contains a single method called getTweets which 
+ * takes in a topic as parameter, queries and returns a list of tweets
+ * 
+ * @author FONSECA Patrick
+ *
+ */
+
 public class TweetManager {
 
 	public static ArrayList<String> getTweets(String topic) {

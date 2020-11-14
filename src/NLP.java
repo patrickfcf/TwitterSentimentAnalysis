@@ -6,6 +6,15 @@ import edu.stanford.nlp.sentiment.SentimentCoreAnnotations.SentimentAnnotatedTre
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.util.CoreMap;
 
+/**
+ * This class contains two functions namely, init which initializes 
+ * the pipeline and findSentiment which takes in a tweet as input and 
+ * returns it’s sentiment score (Higher the score, happier the sentiment)
+ * 
+ * @author FONSECA Patrick
+ *
+ */
+
 public class NLP {
 	static StanfordCoreNLP pipeline;
 
