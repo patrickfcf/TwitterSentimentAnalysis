@@ -2,6 +2,8 @@
 Simple Java project to analyze Twitter sentiments, part of a project to learn more about the automation of code.
 
 # Twitter Developers
+https://developer.twitter.com/ 
+- App NAme: TwitterSentimentAnalysisInJava
 
 # CoreNLP API
 https://stanfordnlp.github.io/CoreNLP/api.html
